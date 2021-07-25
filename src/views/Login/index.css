@@ -1,0 +1,18 @@
+/* 居中 */
+.container{
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:500px;
+    height:300px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding:20px;
+}
+.container .loginTitle{
+    height: 80px;
+    line-height: 80px;
+    font-size: 25px;
+    color:white;
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+.content-hidden{
+    display: none;
+}
+.steps-action{
+    padding:50px 20px 20px;
+}
+/* 点击下一步能够保存上一步内容 */
